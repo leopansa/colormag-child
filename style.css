@@ -1,0 +1,28 @@
+/*
+ Theme Name:   ColorMag Child
+ Theme URI:    http://themegrill.com/themes/colormag/
+ Description:  ColorMag Child Theme
+ Author:       leopansa
+ Template:     ColorMag
+ Version:      1.4.1
+ License: GNU General Public License, version 3 (GPLv3)
+ License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+ Text Domain: colormag
+*/
+
+header.entry-header{
+    margin-bottom: 0.6em;
+}
+
+#content .post .article-content .below-entry-meta .posted-on .fa,
+#content .post .article-content .below-entry-meta .byline .fa,
+#content .post .article-content .below-entry-meta .comments .fa,
+#content .post .article-content .below-entry-meta .tag-links .fa,
+#content .post .article-content .below-entry-meta .edit-link .fa{
+    font-size: 16px;
+}
+
+#content .post .article-content .below-entry-meta {
+    padding-bottom: 15px;
+    padding-top: 0px;
+}
